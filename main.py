@@ -1,7 +1,7 @@
 import pygame
 import time
 
-
+#
 width, height = 700, 700
 square_size = width // 8
 
